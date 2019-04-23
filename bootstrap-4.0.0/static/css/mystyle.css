@@ -1,0 +1,13 @@
+.jumbotron{
+    background-image: url("../img/software-banner.jpg") ;
+    background-repeat: no-repeat;
+    background-size:150%;
+    color:#ffffff;
+}
+
+.mylead{
+    background-color: #c8d6e5 ;
+}
+.my-background{
+  /*  background-color: #3498db ;  */
+}
